@@ -1,4 +1,5 @@
 This repository has been diveded into two repositries
 
-https://github.com/flopp999/Tibber-InfluxDB
-https://github.com/flopp999/Tibber-Domoticz
+Tibber plugin for Domoticz https://github.com/flopp999/Tibber-InfluxDB
+
+Tibber python code for InfluxDB https://github.com/flopp999/Tibber-Domoticz
